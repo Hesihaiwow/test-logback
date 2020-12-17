@@ -1,0 +1,29 @@
+2020-12-18 00:06:17.861 [main] INFO  com.hsh.testlogback.TestLogbackApplication - Starting TestLogbackApplication using Java 1.8.0_144 on LAPTOP-ISM8HS86 with PID 5216 (C:\Users\xiaoxin\Desktop\test-logback\target\classes started by xiaoxin in C:\Users\xiaoxin\Desktop\test-logback)
+2020-12-18 00:06:17.865 [main] INFO  com.hsh.testlogback.TestLogbackApplication - No active profile set, falling back to default profiles: default
+2020-12-18 00:06:19.410 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-12-18 00:06:19.432 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-18 00:06:19.434 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-18 00:06:19.435 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-18 00:06:19.602 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-18 00:06:19.603 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1676 ms
+2020-12-18 00:06:19.911 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-18 00:06:20.183 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-12-18 00:06:20.241 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-18 00:06:20.273 [main] INFO  com.hsh.testlogback.TestLogbackApplication - Started TestLogbackApplication in 3.229 seconds (JVM running for 5.741)
+2020-12-18 00:06:20.281 [main] INFO  test - ---------test-------------
+2020-12-18 00:06:20.282 [main] ERROR test - -------------error-------------
+2020-12-18 00:06:59.495 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-18 00:07:04.534 [main] INFO  com.hsh.testlogback.TestLogbackApplication - Starting TestLogbackApplication using Java 1.8.0_144 on LAPTOP-ISM8HS86 with PID 15664 (C:\Users\xiaoxin\Desktop\test-logback\target\classes started by xiaoxin in C:\Users\xiaoxin\Desktop\test-logback)
+2020-12-18 00:07:04.537 [main] INFO  com.hsh.testlogback.TestLogbackApplication - No active profile set, falling back to default profiles: default
+2020-12-18 00:07:05.601 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-12-18 00:07:05.614 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-18 00:07:05.616 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-18 00:07:05.616 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-18 00:07:05.769 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-18 00:07:05.769 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1184 ms
+2020-12-18 00:07:06.113 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-18 00:07:06.401 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-12-18 00:07:06.427 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-18 00:07:06.440 [main] INFO  com.hsh.testlogback.TestLogbackApplication - Started TestLogbackApplication in 2.459 seconds (JVM running for 4.771)
+2020-12-18 00:07:06.444 [main] INFO  test - ---------test-------------
+2020-12-18 00:07:06.444 [main] ERROR test - -------------error-------------
